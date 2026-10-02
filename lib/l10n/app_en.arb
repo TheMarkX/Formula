@@ -1,0 +1,114 @@
+{
+  "@@locale": "en",
+  
+  "appName": "FORMULA",
+
+  "play": "PLAY",
+  "settings": "SETTINGS",
+  "glossary": "GLOSSARY",
+  "about": "ABOUT",
+  "close": "CLOSE",
+  "back": "BACK",
+
+  "language": "LANGUAGE",
+  "english": "English",
+  "spanish": "Español",
+
+  "productSelectionTitle": "WHAT WOULD YOU LIKE",
+  "productSelectionSubtitle": "TO MAKE?",
+
+  "toothpaste": "TOOTHPASTE",
+  "mouthwash": "MOUTHWASH",
+  "toothPowder": "TOOTH POWDER",
+
+  "proceedToNextStep": "PROCEED TO NEXT STEP",
+  "learnAboutThisStep": "LEARN ABOUT THIS STEP",
+  "processOverview": "PROCESS OVERVIEW",
+  "finalProduct": "FINAL PRODUCT",
+  "makeAnotherProduct": "MAKE ANOTHER PRODUCT",
+
+  "website": "WHO IS M. ABDULREHMAN?",
+  "github": "GITHUB",
+  "openSourceLicenses": "OPEN SOURCE LICENSES",
+
+  "aboutDescription": "A pharmaceutical formulation game designed to introduce the principles and processes involved in preparing common oral-care formulations.",
+
+  "madeBy": "Made by Muhammad Abdul Rehman (937-2025) of Faculty of Pharmacy, Hamdard University, Karachi, Pakistan",
+
+  "copyright": "© 2026 TheMarkX",
+
+  "stepNumber": "STEP {number}",
+"@stepNumber": {
+  "placeholders": {
+    "number": {
+      "type": "int"
+    }
+  }
+},
+"combine": "COMBINE",
+
+"intermediateProductSuccess": "Intermediate Product Successfully Made",
+
+"formulaComplete": "FORMULA COMPLETE",
+"youMadeProduct": "YOU MADE {product}!",
+"@youMadeProduct": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"allStepsCompleted": "All formulation steps have been successfully completed.",
+"backToHome": "BACK TO HOME",
+
+"processOverviewTitle": "{product} PROCESS",
+"@processOverviewTitle": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"version": "Version {version}",
+"@version": {
+  "placeholders": {
+    "version": {
+      "type": "String"
+    }
+  }
+},
+"glossaryMeaning": "Meaning",
+"glossaryExample": "Example",
+"searchGlossary": "Search glossary...",
+"clearSearch": "Clear search",
+"noTermsFound": "No terms found",
+"glossaryTermCount": "{count} TERMS",
+"@glossaryTermCount": {
+  "placeholders": {
+    "count": {
+      "type": "int"
+    }
+  }
+},
+"formulationQuantities": "Formulation quantities",
+"noFormulationData": "No formulation data available.",
+"formulationQuantityNotice": "Quantities will be added when the USP/BP formulation data is available.",
+
+  "quantityNotEntered": "Not entered",
+
+  "choosePreferredLanguage": "Choose your preferred language.",
+
+  "sendFeedback": "Open Mailing App",
+  "sendFeedbackDescription": "Have a suggestion, found a problem, or noticed something that could be improved? Send us your feedback directly through your email app.",
+  "cancel": "Cancel",
+  "contact": "Contact Us",
+
+  "theme": "Theme",
+  "chooseTheme": "Choose how the app should look.",
+  "themeSystem": "System",
+  "themeSystemSubtitle": "Follow your device settings",
+  "themeDark": "Dark",
+  "themeDarkSubtitle": "Always use dark mode",
+  "themeLight": "Light",
+  "themeLightSubtitle": "Always use light mode"
+}

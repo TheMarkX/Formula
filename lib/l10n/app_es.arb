@@ -1,0 +1,114 @@
+{
+  "@@locale": "es",
+
+  "appName": "FORMULA",
+
+  "play": "JUGAR",
+  "settings": "AJUSTES",
+  "glossary": "GLOSARIO",
+  "about": "ACERCA DE",
+  "close": "CERRAR",
+  "back": "ATRÁS",
+
+  "language": "IDIOMA",
+  "english": "English",
+  "spanish": "Español",
+
+  "productSelectionTitle": "¿QUÉ TE GUSTARÍA",
+  "productSelectionSubtitle": "HACER?",
+
+  "toothpaste": "PASTA DENTAL",
+  "mouthwash": "ENJUAGUE BUCAL",
+  "toothPowder": "POLVO DENTAL",
+
+  "proceedToNextStep": "CONTINUAR AL SIGUIENTE PASO",
+  "learnAboutThisStep": "APRENDER SOBRE ESTE PASO",
+  "processOverview": "RESUMEN DEL PROCESO",
+  "finalProduct": "PRODUCTO FINAL",
+  "makeAnotherProduct": "HACER OTRO PRODUCTO",
+
+  "website": "¿QUIÉN ES M. ABDULREHMAN?",
+  "github": "GITHUB",
+  "openSourceLicenses": "LICENCIAS DE CÓDIGO ABIERTO",
+
+  "aboutDescription": "Un juego de formulación farmacéutica diseñado para introducir los principios y procesos involucrados en la preparación de formulaciones comunes para el cuidado bucal.",
+
+  "madeBy": "Creado por Muhammad Abdul Rehman (937-2025) de la Facultad de Farmacia, Universidad Hamdard, Karachi, Pakistán",
+
+  "copyright": "© 2026 TheMarkX",
+
+  "stepNumber": "PASO {number}",
+"@stepNumber": {
+  "placeholders": {
+    "number": {
+      "type": "int"
+    }
+  }
+},
+"combine": "COMBINAR",
+
+"intermediateProductSuccess": "Producto intermedio elaborado correctamente",
+
+"formulaComplete": "¡FÓRMULA COMPLETADA!",
+"youMadeProduct": "¡HAS PREPARADO {product}!",
+"@youMadeProduct": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"allStepsCompleted": "Todos los pasos de la formulación se han completado correctamente.",
+"backToHome": "VOLVER AL INICIO",
+
+"processOverviewTitle": "PROCESO DE {product}",
+"@processOverviewTitle": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"version": "Versión {version}",
+"@version": {
+  "placeholders": {
+    "version": {
+      "type": "String"
+    }
+  }
+},
+"glossaryMeaning": "Significado",
+"glossaryExample": "Ejemplo",
+"searchGlossary": "Buscar en el glosario...",
+"clearSearch": "Borrar búsqueda",
+"noTermsFound": "No se encontraron términos",
+"glossaryTermCount": "{count} TÉRMINOS",
+"@glossaryTermCount": {
+  "placeholders": {
+    "count": {
+      "type": "int"
+    }
+  }
+},
+"formulationQuantities": "Cantidades de la formulación",
+"noFormulationData": "No hay datos de formulación disponibles.",
+"formulationQuantityNotice": "Las cantidades se añadirán cuando estén disponibles los datos de formulación USP/BP.",
+
+"quantityNotEntered": "No introducida",
+
+"choosePreferredLanguage": "Elige tu idioma preferido.",
+
+"sendFeedback": "Abrir aplicación de correo",
+  "sendFeedbackDescription": "¿Tienes una sugerencia, has encontrado un problema o has notado algo que podría mejorarse? Envíanos tus comentarios directamente desde tu aplicación de correo electrónico.",
+  "cancel": "Cancelar",
+  "contact": "Contáctanos",
+
+  "theme": "Tema",
+  "chooseTheme": "Elige cómo quieres que se vea la aplicación.",
+  "themeSystem": "Sistema",
+  "themeSystemSubtitle": "Seguir la configuración de tu dispositivo",
+  "themeDark": "Oscuro",
+  "themeDarkSubtitle": "Usar siempre el modo oscuro",
+  "themeLight": "Claro",
+  "themeLightSubtitle": "Usar siempre el modo claro"
+}

@@ -1,0 +1,104 @@
+{
+  "@@locale": "de",
+  "appName": "FORMULA",
+  "play": "SPIELEN",
+  "settings": "EINSTELLUNGEN",
+  "glossary": "GLOSSAR",
+  "about": "ÜBER",
+  "close": "SCHLIESSEN",
+  "back": "ZURÜCK",
+  "language": "SPRACHE",
+  "english": "English",
+  "spanish": "Español",
+  "productSelectionTitle": "WAS MÖCHTEN SIE",
+  "productSelectionSubtitle": "HERSTELLEN?",
+  "toothpaste": "ZAHNPASTA",
+  "mouthwash": "MUNDSPÜLUNG",
+  "toothPowder": "ZAHNPULVER",
+  "proceedToNextStep": "ZUM NÄCHSTEN SCHRITT",
+  "learnAboutThisStep": "MEHR ÜBER DIESEN SCHRITT",
+  "processOverview": "PROZESSÜBERSICHT",
+  "finalProduct": "ENDPRODUKT",
+  "makeAnotherProduct": "WEITERES PRODUKT HERSTELLEN",
+  "website": "WER IST M. ABDULREHMAN?",
+  "github": "GITHUB",
+  "openSourceLicenses": "OPEN-SOURCE-LIZENZEN",
+  "aboutDescription": "Ein pharmazeutisches Formulierungsspiel, das in die Prinzipien und Prozesse zur Herstellung gängiger Mundpflegeformulierungen einführt.",
+  "madeBy": "Erstellt von Muhammad Abdul Rehman (937-2025) an der Fakultät für Pharmazie, Universität Hamdard, Karachi, Pakistan",
+  "copyright": "© 2026 TheMarkX",
+
+  "stepNumber": "SCHRITT {number}",
+"@stepNumber": {
+  "placeholders": {
+    "number": {
+      "type": "int"
+    }
+  }
+},
+"combine": "KOMBINIEREN",
+
+"intermediateProductSuccess": "Zwischenprodukt erfolgreich hergestellt",
+
+"formulaComplete": "FORMULIERUNG ABGESCHLOSSEN",
+"youMadeProduct": "{product} WURDE ERFOLGREICH HERGESTELLT!",
+"@youMadeProduct": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"allStepsCompleted": "Alle Formulierungsschritte wurden erfolgreich abgeschlossen.",
+"backToHome": "ZURÜCK ZUR STARTSEITE",
+
+"processOverviewTitle": "{product}-PROZESS",
+"@processOverviewTitle": {
+  "placeholders": {
+    "product": {
+      "type": "String"
+    }
+  }
+},
+"version": "Version {version}",
+"@version": {
+  "placeholders": {
+    "version": {
+      "type": "String"
+    }
+  }
+},
+"glossaryMeaning": "Bedeutung",
+"glossaryExample": "Beispiel",
+"searchGlossary": "Glossar durchsuchen...",
+"clearSearch": "Suche löschen",
+"noTermsFound": "Keine Begriffe gefunden",
+"glossaryTermCount": "{count} BEGRIFFE",
+"@glossaryTermCount": {
+  "placeholders": {
+    "count": {
+      "type": "int"
+    }
+  }
+},
+"formulationQuantities": "Rezepturmengen",
+"noFormulationData": "Keine Rezepturdaten verfügbar.",
+"formulationQuantityNotice": "Die Mengen werden ergänzt, sobald USP-/BP-Rezepturdaten verfügbar sind.",
+
+"quantityNotEntered": "Nicht eingegeben",
+
+"choosePreferredLanguage": "Wählen Sie Ihre bevorzugte Sprache.",
+
+"sendFeedback": "E-Mail-App öffnen",
+  "sendFeedbackDescription": "Haben Sie einen Vorschlag, ein Problem gefunden oder etwas bemerkt, das verbessert werden könnte? Senden Sie uns Ihr Feedback direkt über Ihre E-Mail-App.",
+  "cancel": "Abbrechen",
+  "contact": "Kontaktieren Sie uns",
+
+  "theme": "Design",
+  "chooseTheme": "Wählen Sie das Erscheinungsbild der App.",
+  "themeSystem": "System",
+  "themeSystemSubtitle": "Geräteeinstellungen verwenden",
+  "themeDark": "Dunkel",
+  "themeDarkSubtitle": "Immer den dunklen Modus verwenden",
+  "themeLight": "Hell",
+  "themeLightSubtitle": "Immer den hellen Modus verwenden"
+}
