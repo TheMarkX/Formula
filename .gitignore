@@ -31,10 +31,10 @@ migrate_working_dir/
 
 /build/
 
-/web/
-/macos/
-/linux/
-/windows/
+web/
+macos/
+linux/
+windows/
 
 /coverage/
 
