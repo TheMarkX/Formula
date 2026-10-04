@@ -358,7 +358,7 @@ List<ReactionStep> mouthwashStepsFor(Locale locale) {
       'FERTIGE MUNDSPÜLUNG',
     ),
     Icons.local_drink_outlined,
-    'final_mouthwash',
+    'mouthwash',
     'The final mouthwash is the completed formulation after adjustment to the intended quantity and formulation characteristics.',
     'El enjuague bucal final es la formulación terminada tras ajustar la cantidad y las características previstas.',
     'Le bain de bouche final est la formulation terminée après ajustement à la quantité et aux caractéristiques souhaitées.',

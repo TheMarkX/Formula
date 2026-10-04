@@ -456,7 +456,7 @@ List<ReactionStep> toothpowderStepsFor(Locale locale) {
     nameFr: 'POUDRE DENTAIRE FINALE',
     nameDe: 'FERTIGES ZAHNPULVER',
     icon: Icons.inventory_2_outlined,
-    model: 'final_toothpowder',
+    model: 'toothpowder',
     descEn:
         'The final toothpowder is the completed formulation contained '
         'in suitable protective packaging and ready for storage.',

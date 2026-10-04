@@ -14,10 +14,10 @@ class AppColors {
   static const Color darkBorder = Color(0xFF2A3542);
 
   // Light theme
-  static const Color lightBackground = Color(0xFFE7EBEF);
-  static const Color lightSurface = Color(0xFFF1F4F6);
-  static const Color lightSurfaceElevated = Color(0xFFDCE2E7);
-  static const Color lightBorder = Color(0xFFC5CED6);
+  static const Color lightBackground = Color.fromARGB(255, 130, 190, 250);
+  static const Color lightSurface = Color.fromARGB(255, 157, 206, 255);
+  static const Color lightSurfaceElevated = Color.fromARGB(255, 171, 213, 255);
+  static const Color lightBorder = Color.fromARGB(255, 110, 176, 243);
 
   // Text
   static const Color textPrimary = Color(0xFFFFFFFF);

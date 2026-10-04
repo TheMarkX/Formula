@@ -272,7 +272,7 @@ List<ReactionStep> toothpasteStepsFor(Locale locale) {
     'DENTIFRICE FINAL',
     'FERTIGE ZAHNPASTA',
     Icons.science_outlined,
-    'final_toothpaste',
+    'toothpaste',
     'The final toothpaste is the completed formulation after final adjustment of its composition and consistency.',
     'La pasta dental final es la formulación terminada después de ajustar su composición y consistencia.',
     'Le dentifrice final est la formulation terminée après ajustement de sa composition et de sa consistance.',
