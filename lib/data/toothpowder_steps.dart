@@ -470,6 +470,7 @@ List<ReactionStep> toothpowderStepsFor(Locale locale) {
         'Das fertige Zahnpulver ist die abgeschlossene Formulierung in einer '
         'geeigneten Schutzverpackung und bereit für die Lagerung.',
   );
+  debugPrint('Final toothpowder model: ${finalToothpowder.modelPath}');
 
   final toothpowderStep8 = ReactionStep(
     stepNumber: 8,
